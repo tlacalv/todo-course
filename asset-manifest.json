@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-course/static/css/main.30622c2a.css",
+    "main.js": "/todo-course/static/js/main.4e4b38bd.js",
+    "index.html": "/todo-course/index.html",
+    "static/media/delete.svg": "/todo-course/static/media/delete.5ca1b5033fbb1aac7f6a5c0f60228065.svg",
+    "static/media/check.svg": "/todo-course/static/media/check.e5de9888c8f6a8f55efa93fe685407ff.svg",
+    "main.30622c2a.css.map": "/todo-course/static/css/main.30622c2a.css.map",
+    "main.4e4b38bd.js.map": "/todo-course/static/js/main.4e4b38bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30622c2a.css",
+    "static/js/main.4e4b38bd.js"
+  ]
+}
